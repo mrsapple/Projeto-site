@@ -36,3 +36,14 @@ figure{
 figcaption{
     font-style: italic;
 }
+p{
+    padding: 10px 15px 20px 5px;
+}
+.teste{
+    width: 150px;
+    color: beige;
+    background-color: rgb(48, 77, 67);
+    /*padding-left: 75px;*/
+    padding-bottom: 12px;
+    margin-left: 30px;
+}
