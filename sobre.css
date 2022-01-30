@@ -34,7 +34,7 @@ h2{
     padding-top: 30px;
 }
 figure{
-    background-color: #ebebe0;
+    background-color: rgb(233, 225, 225);
     border: 3px double #e1e1d0;
     text-align: center;
     padding: 15px;
@@ -47,16 +47,49 @@ p{
     padding: 0 45px;
     text-indent: 15px;
 }
-.index{
+.botao1{
+    border: 1px solid #7a8b96;
+    padding: 15px 32px;
     text-align: center;
-    color: black;
-    background-color: #bcc2be;
-    border-radius: 4px;
+    background-color: rgb(233, 225, 225);
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
-.top{
+.botao2{
+    border: 1px solid #7a8b96;
+    padding: 15px 32px;
     text-align: center;
-    color: black;
-    background-color: #bcc2be;
-    border-radius: 4px;
-
+    background-color: rgb(233, 225, 225);
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 700px;
+}
+.botao1 a{
+    color: #003366;
+}
+.botao2 a{
+    color: #003366;
+}
+#centro-distribuicao{
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+#rodape{
+    color: #777;
+    margin: 1px 0;
+    padding: 5px 0;
+}
+#rodape img{
+    margin-right: 30px;
+    vertical-align: middle;
+    width: 94px;
+}
+#pelho{
+    float: right;
+    margin: 0 10px;
 }
