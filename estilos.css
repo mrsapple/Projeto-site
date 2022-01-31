@@ -2,6 +2,7 @@
     background-image: url(imagens/sacola.png);
     background-repeat: no-repeat;
     background-position: top right;
+    padding-top: 8px;
 
     font-size: 14px;
     padding-right: 35px;
@@ -17,4 +18,12 @@
 body{
     color: #333333;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.menu ul li{
+    display: inline;
+    margin-left: 20px;
+}
+.container{
+    margin: 0 auto;
+    width: 940px;
 }
