@@ -70,9 +70,11 @@ p{
 }
 .botao1 a{
     color: #003366;
+    text-decoration: none;
 }
 .botao2 a{
     color: #003366;
+    text-decoration: none; /*Essa tag tira o sublinhado do link.*/
 }
 #centro-distribuicao{
     margin-left: auto;
